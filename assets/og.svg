@@ -1,0 +1,19 @@
+\
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ff5fa6"/>
+      <stop offset="1" stop-color="#8a5cff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="30%" cy="20%" r="60%">
+      <stop offset="0" stop-color="rgba(255,255,255,.45)"/>
+      <stop offset="1" stop-color="rgba(255,255,255,0)"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0b0b10"/>
+  <rect x="60" y="60" width="1080" height="510" rx="60" fill="url(#bg)"/>
+  <rect x="60" y="60" width="1080" height="510" rx="60" fill="url(#glow)"/>
+  <text x="120" y="290" font-family="system-ui,Segoe UI,Arial" font-weight="900" font-size="72" fill="rgba(255,255,255,.92)">Thays Postres</text>
+  <text x="120" y="365" font-family="system-ui,Segoe UI,Arial" font-weight="700" font-size="34" fill="rgba(255,255,255,.85)">Repostería artesanal · Navojoa, Sonora</text>
+  <text x="120" y="430" font-family="system-ui,Segoe UI,Arial" font-weight="700" font-size="28" fill="rgba(255,255,255,.85)">Pasteles personalizados · Postres en vaso · Galletas</text>
+</svg>

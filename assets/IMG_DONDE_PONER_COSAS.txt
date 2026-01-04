@@ -1,0 +1,21 @@
+PON AQUÍ TUS ARCHIVOS (recomendado)
+
+1) Banner principal (hero)
+   - assets/img/banner/banner.jpg  (1200x700 aprox)
+
+2) Logo
+   - assets/img/logo/logo.png  (512x512 o 800x800 con fondo transparente)
+
+3) Cinta de productos (ribbon)
+   - assets/img/ribbon/ribbon-1.jpg ... ribbon-6.jpg
+
+4) Más vendidos (cards)
+   - assets/img/best/best-1.jpg ... best-3.jpg
+
+5) Tarjetas de categorías (Productos y servicios)
+   - assets/img/cat-1.jpg ... cat-3.jpg
+
+6) Videos (mini sección)
+   - Thumb: assets/img/video-1.jpg , video-2.jpg
+   - Video (opcional): assets/videos/video-1.mp4
+     (Si no tienes mp4, solo linkea a Reels/FB)
